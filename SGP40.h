@@ -30,7 +30,7 @@ private:
 
 
 public:
-    DHT20(uint SDAPin, uint SCLPin, int address = 0x59){
+    SGP40(uint SDAPin, uint SCLPin, int address = 0x59){
         _SDAPin = SDAPin;
         _SCLPin = SCLPin;
         _I2CAddress = address;
