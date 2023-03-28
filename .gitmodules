@@ -1,0 +1,3 @@
+[submodule "gas-index-algorithm"]
+	path = gas-index-algorithm
+	url = git@github.com:JosephBerman/gas-index-algorithm.git
